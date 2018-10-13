@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="uncover">UNCOVER</string>
+    <string name="place_flag">PLACE FLAG</string>
+    <string name="reset">Reset</string>
+    <string name="current_action">Current Action:</string>
+    <string name="current_action_uncover_tile">Current Action: UNCOVER TILE</string>
+    <string name="current_action_place_flag">Current Action: PLACE FLAG</string>
+</resources>
