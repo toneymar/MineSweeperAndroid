@@ -176,6 +176,7 @@ class MineSweeperView(context: Context?, attrs: AttributeSet?) : View(context, a
                 else
                     MineSweeperModel.placeFlag(tX, tY)
             }
+            
             invalidate()
         }
         return super.onTouchEvent(event)
